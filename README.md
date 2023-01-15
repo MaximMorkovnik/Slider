@@ -1,4 +1,4 @@
-[**<h3>Slider --><h3>**](https://maximmorkovnik.github.io/Slider/)
+<https://maximmorkovnik.github.io/Slider/>
   
 <h1>Slider</h1>
 
